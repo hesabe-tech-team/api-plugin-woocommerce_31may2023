@@ -1,36 +1,36 @@
-About Wooocommerce 
+#About Wooocommerce 
 
-Version 3.0
-Require Wooocommerce Version : 2.1 or Above
-Compatible with with woocommerce version 7.x or abov
-Require PHP version : 5.6/7.0/7.1/7.2/7.3/7.4/8.0 or above
+Version 3.0</br>
+Require Wooocommerce Version : 2.1 or Above</br>
+Compatible with with woocommerce version 7.x or abov</br>
+Require PHP version : 5.6/7.0/7.1/7.2/7.3/7.4/8.0 or above</br>
 
-Features
+#Features
 
-1: Payment Type Added 
-2: Hesabe Direct and indirect configuration added
-3: Direct Payment Using KNET
-4: Direct Payment Using MPGS
-5: inderect method 
-6: Details form Payment Gateway is now disbplayable in wordpress order page as Note on right side
-7: when demo mode is active on payment page you will see Demo Mode in checkout page
-8: when swith to live you will see select payment 
-9: payment methods are now displayable on oder page like KNET , MPGS etc
-10:using inderect method Apple pay will also be disbplayable if some pay with apple pay
+1: Payment Type Added </br>
+2: Hesabe Direct and indirect configuration added<br>
+3: Direct Payment Using KNET<br>
+4: Direct Payment Using MPGS<br>
+5: inderect method <br>
+6: Details form Payment Gateway is now disbplayable in wordpress order page as Note on right side<br>
+7: when demo mode is active on payment page you will see Demo Mode in checkout page<br>
+8: when swith to live you will see select payment <br>
+9: payment methods are now displayable on oder page like KNET , MPGS etc<br>
+10:using inderect method Apple pay will also be disbplayable if some pay with apple pay<br><br>
 
 
-Installation Process
+#Installation Process
 
-To install Hesabe Payment Gateway version 3.0 Make sure that you have first installed woocommerce 2.1 or abov, there are two ways to install 
+To install Hesabe Payment Gateway version 3.0 Make sure that you have first installed woocommerce 2.1 or abov, there are two ways to install <br>
 
-A : New installation
-B : Reinstallation
+A : New installation<br>
+B : Reinstallation<br>
 
-A : New installation
+#A : New installation
 
-visit developer.hesabe.com and select woocommerce download package once you download our package it will be in folder form
+visit developer.hesabe.com and select woocommerce download package once you download our package it will be in folder form<br>
 
-Using wordpress admin
+#Using wordpress admin
 
 1: visit your downloaded page directory 
 2: install Winrar any version based on your windows/IOS version
