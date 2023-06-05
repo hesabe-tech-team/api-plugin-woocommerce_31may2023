@@ -30,7 +30,7 @@ B : Reinstallation</br>
 
 visit developer.hesabe.com and select woocommerce download package once you download our package it will be in folder form</br>
 
-##Using wordpress admin
+**Using wordpress admin**
 
 1: visit your downloaded page directory </br>
 2: install Winrar any version based on your windows/IOS version</br>
@@ -52,7 +52,7 @@ visit developer.hesabe.com and select woocommerce download package once you down
 6: Now visit you wordpress admin and visit Plugin section check Hesabe Payment Gateway </br>
 7: Now you will be able to see Hesabe Payment Gateway plugin , activate it </br>
 
-**B: Reinstallation **
+**B: Reinstallation**
 
 1: To Reinstall Hesabe Payment Gateway first login to wordpress admin panel</br>
 2: navigate to plugin area in wordpress admin panel and deactivate old Hesabe plugin</br>
@@ -78,7 +78,7 @@ Hesabe indirect</br>
 **This option is slected by default if Hesabe direct is not checked**</br>
 
 Enable Hesabe Hdirect</br>
-**Once you check this Checkbox It mean you will activate direct method **</br>
+**Once you check this Checkbox It mean you will activate direct method**</br>
 
 Enable KNET</br>
 **Use this Checkbox to enble KNET (direct mothod)**</br>
