@@ -77,7 +77,7 @@ Enable Hesabe Online Payment Module. </br>
 Hesabe indirect</br>
 **This option is slected by default if Hesabe direct is not checked**</br>
 
-Enable Hesabe Hdirect.</br>
+Enable Hesabe Hdirect</br>
 **Once you check this Checkbox It mean you will activate direct method **</br>
 
 Enable KNET</br>
