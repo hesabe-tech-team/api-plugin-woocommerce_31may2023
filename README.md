@@ -81,10 +81,10 @@ Enable Hesabe Hdirect</br>
 **Once you check this Checkbox It mean you will activate direct method**</br>
 
 Enable KNET</br>
-**Use this Checkbox to enable KNET (direct mothod)**</br>
+**Use this Checkbox to enable KNET (direct method)**</br>
 
 Enable MPGS
-**Use this Checkbox to enable MPGS (direct mothod)**</br>
+**Use this Checkbox to enable MPGS (direct method)**</br>
 
 Enable Demo Hesabe OnlinePayment.</br>
 **Use this Checkbox to enable Demo mode , before activating this make sure you have properly updated Hesabe Test credentials**</br>
