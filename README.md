@@ -83,7 +83,7 @@ Enable Hesabe Hdirect</br>
 Enable KNET</br>
 **Use this Checkbox to enable KNET (direct method)**</br>
 
-Enable MPGS
+Enable MPGS</br>
 **Use this Checkbox to enable MPGS (direct method)**</br>
 
 Enable Demo Hesabe OnlinePayment.</br>
