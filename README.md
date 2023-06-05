@@ -40,7 +40,7 @@ visit developer.hesabe.com and select woocommerce download package once you down
 6: once added to zip/rar make sure it is ZIP file</br>
 7: visit wordpress admin and visit plugin installation page </br>
 8: Upload zip file</br>
-9: once you install it vist plugin page again activate Hesabe Payment Gateway </br>
+9: once you install it visit plugin page again activate Hesabe Payment Gateway </br>
 
 **Using Cpanel Access**
 
