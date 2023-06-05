@@ -7,16 +7,20 @@ Require PHP version : 5.6/7.0/7.1/7.2/7.3/7.4/8.0 or above</br>
 
 **Features**
 
-1: Payment Type Added </br>
-2: Hesabe Direct and indirect configuration added</br>
-3: Direct Payment Using KNET</br>
-4: Direct Payment Using MPGS</br>
-5: indirect method </br>
-6: Details form Payment Gateway is now displayable in wordpress order page as Note on right side</br>
-7: when demo mode is active on payment page you will see Demo Mode in checkout page</br>
-8: when switch to live you will see select payment </br>
-9: payment methods are now displayable on oder page like KNET , MPGS etc</br>
-10:using indirect method Apple pay will also be displayable if some pay with apple pay</br></br>
+1:Code optamized</br></br>
+2: Payment Type Added </br>
+3: Hesabe Direct and indirect configuration added</br>
+4: Direct Payment Using KNET</br>
+5: Direct Payment Using MPGS</br>
+6: indirect method </br>
+7: Details form Payment Gateway is now displayable in wordpress order page as Note on right side</br>
+8: when demo mode is active on payment page you will see Demo Mode in checkout page</br>
+9: when switch to live you will see select payment </br>
+10: payment methods are now displayable on oder page like KNET , MPGS etc</br>
+11:using indirect method Apple pay will also be displayable if some pay with apple pay</br>
+12:Messages for any issue for example if api respinse contain 501 there will be a message for it</br>
+12:invalid credentials : return proper response message</br>
+12: Live mode : return error code if used test detaits</br></br>
 
 
 **Installation Process**
