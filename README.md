@@ -7,7 +7,7 @@ Require PHP version : 5.6/7.0/7.1/7.2/7.3/7.4/8.0 or above</br>
 
 **Features**
 
-1:Code optamized</br></br>
+1:Code optamized</br>
 2: Payment Type Added </br>
 3: Hesabe Direct and indirect configuration added</br>
 4: Direct Payment Using KNET</br>
