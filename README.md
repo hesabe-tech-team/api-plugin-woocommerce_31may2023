@@ -75,17 +75,17 @@ Enable Hesabe Online Payment Module. </br>
 **Activate this first to activate hesabe payment module**</br>
 
 Hesabe indirect</br>
-**This option is slected by default if Hesabe direct is not checked**</br>
+**This option is selected by default if Hesabe direct is not checked**</br>
 
 Enable Hesabe Hdirect</br>
 **Once you check this Checkbox It mean you will activate direct method**</br>
 
 Enable KNET</br>
-**Use this Checkbox to enble KNET (direct mothod)**</br>
+**Use this Checkbox to enable KNET (direct mothod)**</br>
 
 Enable MPGS
-**Use this Checkbox to enble MPGS (direct mothod)**</br>
+**Use this Checkbox to enable MPGS (direct mothod)**</br>
 
 Enable Demo Hesabe OnlinePayment.</br>
-**Use this Checkbox to Enable Demo mode , before activating this make sure you have properly updated Hesabe Test credentials**</br>
+**Use this Checkbox to enable Demo mode , before activating this make sure you have properly updated Hesabe Test credentials**</br>
 
