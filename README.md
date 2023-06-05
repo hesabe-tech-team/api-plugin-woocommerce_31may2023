@@ -5,6 +5,7 @@ Require Woocommerce Version : 2.1 or above</br>
 Compatible with with woocommerce version 7.x or above</br>
 Require PHP version : 5.6/7.0/7.1/7.2/7.3/7.4/8.0 or above</br>
 
+
 **Features**
 
 1:Code optamized</br>
@@ -20,7 +21,7 @@ Require PHP version : 5.6/7.0/7.1/7.2/7.3/7.4/8.0 or above</br>
 11:using indirect method Apple pay will also be displayable if some pay with apple pay</br>
 12:Messages for any issue for example if api respinse contain 501 there will be a message for it</br>
 13:invalid credentials : return proper response message</br>
-14: Live mode : return error code if used test detaits</br></br>
+14: Live mode : return error code if used test details</br></br>
 
 
 **Installation Process**
@@ -32,7 +33,7 @@ B : Reinstallation</br>
 
 **A : New installation**
 
-visit developer.hesabe.com and select woocommerce download package once you download our package it will be in folder form</br>
+visit developer.hesabe.com and select woocommerce download package once you download our package follow one of option below</br>
 
 **Using wordpress admin**
 
