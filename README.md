@@ -19,8 +19,8 @@ Require PHP version : 5.6/7.0/7.1/7.2/7.3/7.4/8.0 or above</br>
 10: payment methods are now displayable on oder page like KNET , MPGS etc</br>
 11:using indirect method Apple pay will also be displayable if some pay with apple pay</br>
 12:Messages for any issue for example if api respinse contain 501 there will be a message for it</br>
-12:invalid credentials : return proper response message</br>
-12: Live mode : return error code if used test detaits</br></br>
+13:invalid credentials : return proper response message</br>
+14: Live mode : return error code if used test detaits</br></br>
 
 
 **Installation Process**
