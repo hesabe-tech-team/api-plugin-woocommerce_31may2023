@@ -21,7 +21,7 @@ Require PHP version : 5.6/7.0/7.1/7.2/7.3/7.4/8.0 or above</br>
 
 **Installation Process**
 
-To install Hesabe Payment Gateway version 3.0 Make sure that you have first installed woocommerce 2.1 or abov, there are two ways to install </br>
+To install Hesabe Payment Gateway version 3.0 Make sure that you have first installed woocommerce 2.1 or above, there are two ways to install </br>
 
 A : New installation</br>
 B : Reinstallation</br>
@@ -65,7 +65,7 @@ visit developer.hesabe.com and select woocommerce download package once you down
 6: Now visit you wordpress admin and visit Plugin section check Hesabe Payment Gateway </br>
 7: Now you will be able to see Hesabe Payment Gateway plugin , activate it </br>
 
-Once you activate it Visit Woocommerce pligin settings then Click Payment Tab</br>
+Once you activate it Visit Woocommerce plugin settings then Click Payment Tab</br>
 Click manage button or click toggle button and activate update your plugin details and setting </br>
 You will see Different option </br>
 
